@@ -5,7 +5,7 @@
 *.sqlite
 
 dist/
-_build/
+build/
 .idea
 .coverage
 .tox
