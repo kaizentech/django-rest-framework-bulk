@@ -17,3 +17,4 @@ Contributors
 * Mjumbe Poe - https://github.com/mjumbewu
 * Thomas Wajs - https://github.com/thomasWajs
 * Xavier Ordoquy - https://github.com/xordoquy
+* Vaibhav Jain - https://github.com/vaibhav-jain

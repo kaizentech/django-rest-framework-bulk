@@ -1,9 +1,9 @@
 from __future__ import print_function, unicode_literals
+
 import inspect
 
 from rest_framework.exceptions import ValidationError
 from rest_framework.serializers import ListSerializer
-
 
 __all__ = [
     'BulkListSerializer',
