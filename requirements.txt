@@ -1,2 +1,2 @@
-django==1.10
+Django==1.10.8
 djangorestframework==3.7
