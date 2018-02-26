@@ -1,7 +1,8 @@
 from __future__ import unicode_literals, print_function
-import copy
-from rest_framework.routers import DefaultRouter, SimpleRouter
 
+import copy
+
+from rest_framework.routers import DefaultRouter, SimpleRouter
 
 __all__ = [
     'BulkRouter',

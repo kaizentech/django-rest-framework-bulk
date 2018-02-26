@@ -1,8 +1,8 @@
 from __future__ import print_function, unicode_literals
+
 from rest_framework import status
 from rest_framework.mixins import CreateModelMixin
 from rest_framework.response import Response
-
 
 __all__ = [
     'BulkCreateModelMixin',
